@@ -35,7 +35,9 @@
 ```
 
 ## Project Structure
+```txt
 .
 ├── main.py
 ├── requirements.txt
 └── data.csv
+```
