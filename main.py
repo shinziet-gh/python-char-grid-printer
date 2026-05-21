@@ -45,6 +45,6 @@ def read_file(filename):
 
 
 if __name__ == "__main__":
-    x_col, char_col, y_col = read_file("char_grid.csv")
+    x_col, char_col, y_col = read_file("characters.csv")
     grid = create_character_grid(x_col, char_col, y_col)
     print_grid(grid)
