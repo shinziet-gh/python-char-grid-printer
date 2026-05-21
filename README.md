@@ -1,7 +1,7 @@
 # Character Grid Printer
 
 ## Features
-- Reads a CSV file containing three columns that define a character and its specified coordinates
+- Reads a CSV file containing three columns for a character and its specified coordinates
 - Prints the grid of characters on the console
 
 ## Example CSV Data
